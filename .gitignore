@@ -1,0 +1,14 @@
+modem.img
+vendor/lib64/camera/components/com.qti.node.mialgocontrol.so
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/app/Messages/Messages.apk
+system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk
+system/priv-app/MiuiCamera/MiuiCamera.apk
+system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk
+system/data-app/MIMediaEditorGlobal/MIMediaEditorGlobal.apk
+system/data-app/Opera/Opera.apk
+system/data-app/MIBrowserGlobal/MIBrowserGlobal.apk
+system_ext/priv-app/Settings/Settings.apk
+system_ext/apex/com.android.vndk.v30.apex
